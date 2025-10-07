@@ -1,1 +1,1 @@
-mainputs "Hello from testing branch!"
+puts 'Hello world'
